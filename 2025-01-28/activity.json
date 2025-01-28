@@ -2,7 +2,7 @@
   "date": "2025-01-28",
   "projects": {
     "java": {
-      "totalLinesAdded": 43,
+      "totalLinesAdded": 47,
       "totalLinesRemoved": 3,
       "totalActiveTime": 16,
       "files": {
@@ -161,6 +161,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\java\\simpleCalc.java": [
+          {
+            "timestamp": "2025-01-28T23:37:07.365Z",
+            "fileName": "d:\\University(Augustana)\\java\\simpleCalc.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

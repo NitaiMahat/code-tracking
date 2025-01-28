@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 47                                          |
+| **Lines Added** (➕)   | 76                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 44                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Net Change** (↕)    | 73                |
+| **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
 - **NumberGuessing.java** (+39, -3)
 - **Main.java** (+4, -0)
-- **simpleCalc.java** (+4, -0)
+- **simpleCalc.java** (+33, -0)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 50
+".java" : 79
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 11
-"17h" : 1
+"17h" : 3
 ```
 
 
-> **Last Updated:** 1/28/2025, 5:41:45 PM
+> **Last Updated:** 1/28/2025, 5:51:45 PM

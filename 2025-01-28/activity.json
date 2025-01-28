@@ -2,9 +2,9 @@
   "date": "2025-01-28",
   "projects": {
     "java": {
-      "totalLinesAdded": 24,
+      "totalLinesAdded": 27,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 5,
+      "totalActiveTime": 11,
       "files": {
         "d:\\University(Augustana)\\java\\NumberGuessing.java": [
           {
@@ -89,6 +89,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-01-28T22:20:55.189Z",
+            "fileName": "d:\\University(Augustana)\\java\\NumberGuessing.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-01-28T22:23:26.887Z",
+            "fileName": "d:\\University(Augustana)\\java\\NumberGuessing.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ],

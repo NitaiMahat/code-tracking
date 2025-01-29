@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55                                          |
+| **Lines Added** (➕)   | 56                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 55                |
+| **Net Change** (↕)    | 56                |
 | **Active Time** (⌚)   | 4 minutes |
 
 
@@ -14,7 +14,7 @@
 - **RockPaperScissors.java** (+9, -0)
 - **Main.java** (+4, -0)
 - **Calculatorframe.java** (+4, -0)
-- **CalculatorGui.java** (+38, -0)
+- **CalculatorGui.java** (+39, -0)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 55
+".java" : 56
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 5
-"11h" : 1
+"11h" : 2
 ```
 
 
-> **Last Updated:** 1/29/2025, 11:28:18 AM
+> **Last Updated:** 1/29/2025, 11:33:18 AM

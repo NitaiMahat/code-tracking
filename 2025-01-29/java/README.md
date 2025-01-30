@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 100                                          |
+| **Lines Added** (➕)   | 105                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 100                |
+| **Net Change** (↕)    | 105                |
 | **Active Time** (⌚)   | 7 minutes |
 
 
@@ -15,7 +15,7 @@
 - **Main.java** (+4, -0)
 - **Calculatorframe.java** (+4, -0)
 - **CalculatorGui.java** (+39, -0)
-- **Calculator.java** (+44, -0)
+- **Calculator.java** (+49, -0)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 100
+".java" : 105
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,7 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 5
 "11h" : 4
+"20h" : 1
 ```
 
 
-> **Last Updated:** 1/29/2025, 11:48:18 AM
+> **Last Updated:** 1/29/2025, 8:54:29 PM

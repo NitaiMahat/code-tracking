@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-30",
+  "projects": {
+    "java": {
+      "totalLinesAdded": 115,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "d:\\University(Augustana)\\java\\Calculator.java": [
+          {
+            "timestamp": "2025-01-30T15:15:47.273Z",
+            "fileName": "d:\\University(Augustana)\\java\\Calculator.java",
+            "fileType": ".java",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-01-30T15:18:11.861Z",
+            "fileName": "d:\\University(Augustana)\\java\\Calculator.java",
+            "fileType": ".java",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 3
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\java\\Calculator.java"
+      ],
+      "averageChangeSize": 57.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

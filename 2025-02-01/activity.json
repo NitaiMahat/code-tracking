@@ -2,7 +2,7 @@
   "date": "2025-02-01",
   "projects": {
     "java": {
-      "totalLinesAdded": 9,
+      "totalLinesAdded": 35,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,20 @@
             "fileName": "d:\\University(Augustana)\\java\\RockPaperScissors.java",
             "fileType": ".java",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-01T16:49:51.985Z",
+            "fileName": "d:\\University(Augustana)\\java\\RockPaperScissors.java",
+            "fileType": ".java",
+            "linesAdded": 26,
             "linesRemoved": 0,
             "projectName": "java",
             "content": {

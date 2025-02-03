@@ -2,9 +2,9 @@
   "date": "2025-02-03",
   "projects": {
     "java": {
-      "totalLinesAdded": 5,
+      "totalLinesAdded": 9,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 7,
       "files": {
         "d:\\University(Augustana)\\java\\awesomeJavaProgram.java": [
           {
@@ -40,6 +40,34 @@
             "fileName": "d:\\University(Augustana)\\java\\awesomeJavaProgram.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T17:49:44.475Z",
+            "fileName": "d:\\University(Augustana)\\java\\awesomeJavaProgram.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T17:50:32.287Z",
+            "fileName": "d:\\University(Augustana)\\java\\awesomeJavaProgram.java",
+            "fileType": ".java",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "java",
             "content": {

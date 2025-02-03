@@ -2,9 +2,9 @@
   "date": "2025-02-03",
   "projects": {
     "java": {
-      "totalLinesAdded": 9,
+      "totalLinesAdded": 15,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 13,
       "files": {
         "d:\\University(Augustana)\\java\\awesomeJavaProgram.java": [
           {
@@ -75,6 +75,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T17:51:21.773Z",
+            "fileName": "d:\\University(Augustana)\\java\\awesomeJavaProgram.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T17:51:31.520Z",
+            "fileName": "d:\\University(Augustana)\\java\\awesomeJavaProgram.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T17:54:40.008Z",
+            "fileName": "d:\\University(Augustana)\\java\\awesomeJavaProgram.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ]

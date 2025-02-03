@@ -2,9 +2,9 @@
   "date": "2025-02-03",
   "projects": {
     "java": {
-      "totalLinesAdded": 37,
+      "totalLinesAdded": 61,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalActiveTime": 16,
       "files": {
         "d:\\University(Augustana)\\java\\awesomeJavaProgram.java": [
           {
@@ -147,6 +147,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T23:04:27.878Z",
+            "fileName": "d:\\University(Augustana)\\java\\shoppingCart.java",
+            "fileType": ".java",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-03T23:05:56.115Z",
+            "fileName": "d:\\University(Augustana)\\java\\shoppingCart.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "java",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

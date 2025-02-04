@@ -2,9 +2,9 @@
   "date": "2025-02-04",
   "projects": {
     "recipe-page-main": {
-      "totalLinesAdded": 106,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 108,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 17,
       "files": {
         "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\style.css": [
           {
@@ -41,6 +41,34 @@
             "fileType": ".css",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "recipe-page-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-04T20:30:38.517Z",
+            "fileName": "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\style.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "recipe-page-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-04T20:32:26.050Z",
+            "fileName": "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "recipe-page-main",
             "content": {
               "added": [],

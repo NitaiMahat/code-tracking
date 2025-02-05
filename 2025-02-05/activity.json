@@ -418,9 +418,9 @@
       "averageChangeSize": 4
     },
     "coding prac": {
-      "totalLinesAdded": 106,
+      "totalLinesAdded": 107,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 28,
+      "totalActiveTime": 32,
       "files": {
         "d:\\University(Augustana)\\computer 202\\coding prac\\TestAverage.java": [
           {
@@ -655,6 +655,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-05T23:05:31.019Z",
+            "fileName": "d:\\University(Augustana)\\computer 202\\coding prac\\KiloMinutes.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ]

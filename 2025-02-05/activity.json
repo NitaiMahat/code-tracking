@@ -418,9 +418,9 @@
       "averageChangeSize": 4
     },
     "coding prac": {
-      "totalLinesAdded": 9,
+      "totalLinesAdded": 36,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 13,
       "files": {
         "d:\\University(Augustana)\\computer 202\\coding prac\\TestAverage.java": [
           {
@@ -477,6 +477,52 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-05T22:10:14.273Z",
+            "fileName": "d:\\University(Augustana)\\computer 202\\coding prac\\TestAverage.java",
+            "fileType": ".java",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "coding prac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\computer 202\\coding prac\\timebasic.java": [
+          {
+            "timestamp": "2025-02-05T22:12:21.773Z",
+            "fileName": "d:\\University(Augustana)\\computer 202\\coding prac\\timebasic.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\computer 202\\coding prac\\Main.java": [
+          {
+            "timestamp": "2025-02-05T22:12:25.456Z",
+            "fileName": "d:\\University(Augustana)\\computer 202\\coding prac\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

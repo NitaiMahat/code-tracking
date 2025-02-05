@@ -2,7 +2,7 @@
   "date": "2025-02-05",
   "projects": {
     "recipe-page-main": {
-      "totalLinesAdded": 6,
+      "totalLinesAdded": 8,
       "totalLinesRemoved": 1,
       "totalActiveTime": 7,
       "files": {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-05T16:05:34.408Z",
+            "fileName": "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\style.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "recipe-page-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "css"
           }
         ]

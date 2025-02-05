@@ -254,9 +254,9 @@
       "averageChangeSize": 4
     },
     "computer 202": {
-      "totalLinesAdded": 34,
+      "totalLinesAdded": 36,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "d:\\University(Augustana)\\computer 202\\class1.java": [
           {
@@ -387,6 +387,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-05T18:35:35.335Z",
+            "fileName": "d:\\University(Augustana)\\computer 202\\ClassOne.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

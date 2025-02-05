@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20                                          |
+| **Lines Added** (➕)   | 32                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 20                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 32                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **class1.java** (+5, -0)
 - **Main.java** (+4, -0)
-- **ClassOne.java** (+11, -0)
+- **ClassOne.java** (+23, -0)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 20
+".java" : 32
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 2
-"12h" : 4
+"12h" : 6
 ```
 
 
-> **Last Updated:** 2/5/2025, 12:24:52 PM
+> **Last Updated:** 2/5/2025, 12:29:52 PM

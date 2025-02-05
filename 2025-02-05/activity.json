@@ -418,9 +418,9 @@
       "averageChangeSize": 4
     },
     "coding prac": {
-      "totalLinesAdded": 90,
+      "totalLinesAdded": 91,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 22,
+      "totalActiveTime": 27,
       "files": {
         "d:\\University(Augustana)\\computer 202\\coding prac\\TestAverage.java": [
           {
@@ -601,6 +601,20 @@
           },
           {
             "timestamp": "2025-02-05T22:47:31.312Z",
+            "fileName": "d:\\University(Augustana)\\computer 202\\coding prac\\bmi.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-05T22:51:44.027Z",
             "fileName": "d:\\University(Augustana)\\computer 202\\coding prac\\bmi.java",
             "fileType": ".java",
             "linesAdded": 1,

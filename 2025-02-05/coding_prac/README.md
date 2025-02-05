@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 76                                          |
+| **Lines Added** (➕)   | 89                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 76                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 89                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,7 @@
 - **timebasic.java** (+20, -0)
 - **Main.java** (+24, -0)
 - **public class fahrenheit {.java** (+4, -0)
+- **bmi.java** (+13, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 76
+".java" : 89
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 10
+"16h" : 12
 ```
 
 
-> **Last Updated:** 2/5/2025, 4:38:08 PM
+> **Last Updated:** 2/5/2025, 4:43:08 PM

@@ -1134,6 +1134,84 @@
         "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\index.html"
       ],
       "averageChangeSize": 53.5
+    },
+    "coding prac 2": {
+      "totalLinesAdded": 22,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\CommonDigitCheck.java": [
+          {
+            "timestamp": "2025-02-07T21:47:09.658Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\CommonDigitCheck.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-07T21:47:11.316Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\CommonDigitCheck.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-07T21:48:02.927Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\CommonDigitCheck.java",
+            "fileType": ".java",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\Main.java": [
+          {
+            "timestamp": "2025-02-07T21:47:15.122Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 3
+      },
+      "changeFrequency": {
+        "15": 3
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\CommonDigitCheck.java",
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\Main.java"
+      ],
+      "averageChangeSize": 5.5
     }
   },
   "totalActiveTime": 1,

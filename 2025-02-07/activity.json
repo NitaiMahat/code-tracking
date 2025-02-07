@@ -1136,7 +1136,7 @@
       "averageChangeSize": 53.5
     },
     "coding prac 2": {
-      "totalLinesAdded": 22,
+      "totalLinesAdded": 26,
       "totalLinesRemoved": 0,
       "totalActiveTime": 3,
       "files": {
@@ -1197,6 +1197,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\SpeedingTicket.java": [
+          {
+            "timestamp": "2025-02-07T23:15:30.092Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\SpeedingTicket.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

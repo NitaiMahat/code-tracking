@@ -1136,9 +1136,9 @@
       "averageChangeSize": 53.5
     },
     "coding prac 2": {
-      "totalLinesAdded": 54,
+      "totalLinesAdded": 69,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 6,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\CommonDigitCheck.java": [
           {
@@ -1227,6 +1227,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\LeepYearCheck.java": [
+          {
+            "timestamp": "2025-02-07T23:21:09.595Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\LeepYearCheck.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-07T23:22:43.068Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\LeepYearCheck.java",
+            "fileType": ".java",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

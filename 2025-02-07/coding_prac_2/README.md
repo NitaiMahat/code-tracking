@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 54                                          |
+| **Lines Added** (➕)   | 69                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 54                |
-| **Active Time** (⌚)   | 4 minutes |
+| **Net Change** (↕)    | 69                |
+| **Active Time** (⌚)   | 6 minutes |
 
 
 ## Modified Files
 - **CommonDigitCheck.java** (+18, -0)
 - **Main.java** (+4, -0)
 - **SpeedingTicket.java** (+32, -0)
+- **LeepYearCheck.java** (+15, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 54
+".java" : 69
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 4
-"17h" : 2
+"17h" : 4
 ```
 
 
-> **Last Updated:** 2/7/2025, 5:20:45 PM
+> **Last Updated:** 2/7/2025, 5:25:45 PM

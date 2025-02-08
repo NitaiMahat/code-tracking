@@ -91,7 +91,7 @@
       "averageChangeSize": 4
     },
     "optional codings": {
-      "totalLinesAdded": 45,
+      "totalLinesAdded": 53,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -159,6 +159,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\BillOptionl.java",
             "fileType": ".java",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-08T21:29:16.732Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\BillOptionl.java",
+            "fileType": ".java",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "optional codings",
             "content": {

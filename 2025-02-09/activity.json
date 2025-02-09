@@ -2,7 +2,7 @@
   "date": "2025-02-09",
   "projects": {
     "coding prac 2": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 25,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\Arithmetic.java",
             "fileType": ".java",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac 2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-09T20:33:55.801Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 2\\Arithmetic.java",
+            "fileType": ".java",
+            "linesAdded": 21,
             "linesRemoved": 0,
             "projectName": "coding prac 2",
             "content": {

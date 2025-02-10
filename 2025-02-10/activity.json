@@ -79,7 +79,7 @@
       "averageChangeSize": 114
     },
     "classwork": {
-      "totalLinesAdded": 18,
+      "totalLinesAdded": 19,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -110,6 +110,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-10T19:40:21.767Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

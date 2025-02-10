@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-10",
+  "projects": {
+    "recipe-page-main": {
+      "totalLinesAdded": 114,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\index.html": [
+          {
+            "timestamp": "2025-02-10T17:35:06.984Z",
+            "fileName": "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\index.html",
+            "fileType": ".html",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "recipe-page-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\website\\practice\\recipe-page-main\\recipe-page-main\\index.html"
+      ],
+      "averageChangeSize": 114
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}

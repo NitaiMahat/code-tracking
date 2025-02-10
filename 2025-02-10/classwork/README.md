@@ -1,18 +1,17 @@
-# recipe-page-main - Activity Summary 
+# classwork - Activity Summary 
 
 ## Overall Statistics
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 246                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 244                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 18                                          |
+| **Lines Removed** (➖) | 0                                        |
+| **Net Change** (↕)    | 18                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
-- **index.html** (+114, -1)
-- **style.css** (+132, -1)
+- **Main.java** (+18, -0)
 
 ## Visualizations
 
@@ -21,8 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 115
-".css" : 133
+".java" : 18
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +28,7 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 3
-"12h" : 1
+"12h" : 2
 ```
 
 

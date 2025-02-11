@@ -168,7 +168,7 @@
       "averageChangeSize": 2
     },
     "optional codings": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 59,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -199,6 +199,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-11T23:45:48.005Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\OptionalCoding1Q3.java",
+            "fileType": ".java",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

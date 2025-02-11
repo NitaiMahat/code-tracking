@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 87                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 87                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 83                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
 - **Main.java** (+19, -0)
 - **wow.java** (+14, -0)
-- **sentinalStructure.java** (+27, -0)
+- **sentinalStructure.java** (+27, -4)
 - **CheckingInput.java** (+27, -0)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 87
+".java" : 91
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 1
 "18h" : 1
-"19h" : 2
+"19h" : 3
 ```
 
 
-> **Last Updated:** 2/10/2025, 7:42:25 PM
+> **Last Updated:** 2/10/2025, 7:47:25 PM

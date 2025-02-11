@@ -79,7 +79,7 @@
       "averageChangeSize": 114
     },
     "classwork": {
-      "totalLinesAdded": 19,
+      "totalLinesAdded": 33,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -117,6 +117,22 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\Main.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\wow.java": [
+          {
+            "timestamp": "2025-02-11T00:59:43.108Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\wow.java",
+            "fileType": ".java",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "classwork",
             "content": {

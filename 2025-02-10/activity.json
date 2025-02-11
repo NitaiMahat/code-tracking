@@ -80,8 +80,8 @@
     },
     "classwork": {
       "totalLinesAdded": 87,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 4,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 9,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\Main.java": [
           {
@@ -170,6 +170,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-11T01:48:00.794Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\sentinalStructure.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ],

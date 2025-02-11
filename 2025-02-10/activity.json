@@ -79,9 +79,9 @@
       "averageChangeSize": 114
     },
     "classwork": {
-      "totalLinesAdded": 33,
+      "totalLinesAdded": 87,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\Main.java": [
           {
@@ -140,6 +140,38 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\sentinalStructure.java": [
+          {
+            "timestamp": "2025-02-11T01:41:44.550Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\sentinalStructure.java",
+            "fileType": ".java",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\CheckingInput.java": [
+          {
+            "timestamp": "2025-02-11T01:41:55.244Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\CheckingInput.java",
+            "fileType": ".java",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

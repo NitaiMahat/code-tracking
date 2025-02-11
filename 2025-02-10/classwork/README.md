@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 129                                          |
+| **Lines Added** (➕)   | 142                                          |
 | **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 124                |
+| **Net Change** (↕)    | 137                |
 | **Active Time** (⌚)   | 10 minutes |
 
 
@@ -16,7 +16,7 @@
 - **sentinalStructure.java** (+27, -5)
 - **CheckingInput.java** (+27, -0)
 - **MaxMin.java** (+38, -0)
-- **HopscothPractice.java** (+4, -0)
+- **HopscothPractice.java** (+17, -0)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 134
+".java" : 147
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +37,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "18h" : 1
 "19h" : 4
-"20h" : 3
+"20h" : 4
 ```
 
 
-> **Last Updated:** 2/10/2025, 8:12:25 PM
+> **Last Updated:** 2/10/2025, 8:17:25 PM

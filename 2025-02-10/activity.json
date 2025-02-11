@@ -79,7 +79,7 @@
       "averageChangeSize": 114
     },
     "classwork": {
-      "totalLinesAdded": 129,
+      "totalLinesAdded": 142,
       "totalLinesRemoved": 5,
       "totalActiveTime": 10,
       "files": {
@@ -239,6 +239,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\HopscothPractice.java",
             "fileType": ".java",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-11T02:17:22.896Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\HopscothPractice.java",
+            "fileType": ".java",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "classwork",
             "content": {

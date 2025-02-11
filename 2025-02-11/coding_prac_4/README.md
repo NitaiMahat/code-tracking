@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35                                          |
+| **Lines Added** (➕)   | 49                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 35                |
+| **Net Change** (↕)    | 49                |
 | **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
 - **CodingPrac4Q1.java** (+31, -0)
-- **CodingPrac4Q2.java** (+4, -0)
+- **CodingPrac4Q2.java** (+18, -0)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 35
+".java" : 49
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 5
+"17h" : 6
 ```
 
 
-> **Last Updated:** 2/11/2025, 5:26:42 PM
+> **Last Updated:** 2/11/2025, 5:31:42 PM

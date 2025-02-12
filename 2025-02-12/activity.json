@@ -195,7 +195,7 @@
       "averageChangeSize": 28
     },
     "coding prac 4": {
-      "totalLinesAdded": 32,
+      "totalLinesAdded": 37,
       "totalLinesRemoved": 0,
       "totalActiveTime": 10,
       "files": {
@@ -261,6 +261,22 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q3.java",
             "fileType": ".java",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "coding prac 4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q4.java": [
+          {
+            "timestamp": "2025-02-12T20:47:59.057Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q4.java",
+            "fileType": ".java",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "coding prac 4",
             "content": {

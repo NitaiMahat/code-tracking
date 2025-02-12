@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-12",
+  "projects": {
+    "OOPStartFiles": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\OOPStartFiles\\OOPStartFiles\\UsingCards.java": [
+          {
+            "timestamp": "2025-02-12T17:54:44.611Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\OOPStartFiles\\OOPStartFiles\\UsingCards.java",
+            "fileType": ".java",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "OOPStartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\OOPStartFiles\\OOPStartFiles\\UsingCards.java"
+      ],
+      "averageChangeSize": 28
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

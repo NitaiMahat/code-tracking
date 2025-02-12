@@ -195,9 +195,9 @@
       "averageChangeSize": 28
     },
     "coding prac 4": {
-      "totalLinesAdded": 37,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalLinesAdded": 77,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 15,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q3.java": [
           {
@@ -284,6 +284,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-12T21:02:57.766Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q4.java",
+            "fileType": ".java",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "coding prac 4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-12T21:03:17.170Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q4.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "coding prac 4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-12T21:03:27.873Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q4.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac 4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-12T21:05:39.684Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 4\\CodingPrac4Q4.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "coding prac 4",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]

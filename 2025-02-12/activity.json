@@ -2,9 +2,9 @@
   "date": "2025-02-12",
   "projects": {
     "OOPStartFiles": {
-      "totalLinesAdded": 79,
+      "totalLinesAdded": 82,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalActiveTime": 13,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\OOPStartFiles\\OOPStartFiles\\UsingCards.java": [
           {
@@ -119,6 +119,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-12T18:31:33.252Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\OOPStartFiles\\OOPStartFiles\\PlayingCards.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "OOPStartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

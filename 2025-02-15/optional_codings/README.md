@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 12                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 16                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 15                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **OptionalCodingLoopsQ1.java** (+12, -0)
+- **OptionalCodingLoopsQ1.java** (+16, -1)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 12
+".java" : 17
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 2
+"17h" : 5
 ```
 
 
-> **Last Updated:** 2/15/2025, 5:09:16 PM
+> **Last Updated:** 2/15/2025, 5:14:16 PM

@@ -49,9 +49,9 @@
       "averageChangeSize": 56
     },
     "optional codings": {
-      "totalLinesAdded": 20,
+      "totalLinesAdded": 52,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 12,
+      "totalActiveTime": 14,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\OptionalCodingLoopsQ1.java": [
           {
@@ -152,6 +152,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-15T23:31:46.518Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\OptionalCodingLoopsQ2.java",
+            "fileType": ".java",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-15T23:32:49.994Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\OptionalCodingLoopsQ2.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

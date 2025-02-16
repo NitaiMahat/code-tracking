@@ -49,9 +49,9 @@
       "averageChangeSize": 56
     },
     "optional codings": {
-      "totalLinesAdded": 52,
+      "totalLinesAdded": 126,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 14,
+      "totalActiveTime": 15,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\OptionalCodingLoopsQ1.java": [
           {
@@ -180,6 +180,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java": [
+          {
+            "timestamp": "2025-02-16T01:16:04.166Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java",
+            "fileType": ".java",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-16T01:16:09.921Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

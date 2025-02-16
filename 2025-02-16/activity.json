@@ -2,9 +2,9 @@
   "date": "2025-02-16",
   "projects": {
     "optional codings": {
-      "totalLinesAdded": 55,
+      "totalLinesAdded": 131,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\Car.java": [
           {
@@ -40,6 +40,50 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\Car.java",
             "fileType": ".java",
             "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java": [
+          {
+            "timestamp": "2025-02-16T23:49:30.313Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java",
+            "fileType": ".java",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-16T23:49:40.762Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "optional codings",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-16T23:50:07.961Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\optional codings\\ShapeMaker.java",
+            "fileType": ".java",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "optional codings",
             "content": {

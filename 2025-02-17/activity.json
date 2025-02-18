@@ -2,7 +2,7 @@
   "date": "2025-02-17",
   "projects": {
     "Project1": {
-      "totalLinesAdded": 85,
+      "totalLinesAdded": 125,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoPlayer.java",
             "fileType": ".java",
             "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "Project1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-18T04:48:44.984Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoPlayer.java",
+            "fileType": ".java",
+            "linesAdded": 40,
             "linesRemoved": 0,
             "projectName": "Project1",
             "content": {

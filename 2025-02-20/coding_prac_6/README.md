@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 103                                          |
+| **Lines Added** (➕)   | 118                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 99                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Net Change** (↕)    | 114                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **CodingPrac6Q4.java** (+32, -4)
 - **public class CodingPrac6Q5 {.java** (+25, -0)
 - **CodingPrac6Q5P2.java** (+26, -0)
-- **CodingPrac6Q6.java** (+4, -0)
+- **CodingPrac6Q6.java** (+19, -0)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 107
+".java" : 122
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 8
-"18h" : 6
+"18h" : 8
 ```
 
 
-> **Last Updated:** 2/20/2025, 6:24:34 PM
+> **Last Updated:** 2/20/2025, 6:29:34 PM

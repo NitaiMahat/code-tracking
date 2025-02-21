@@ -80,6 +80,39 @@
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\TwoDArrayClassWork.java"
       ],
       "averageChangeSize": 9
+    },
+    "Project1": {
+      "totalLinesAdded": 64,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\DiceCup.java": [
+          {
+            "timestamp": "2025-02-21T19:10:46.478Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\DiceCup.java",
+            "fileType": ".java",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "Project1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\DiceCup.java"
+      ],
+      "averageChangeSize": 64
     }
   },
   "totalActiveTime": 2,

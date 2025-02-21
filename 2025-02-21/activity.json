@@ -82,7 +82,7 @@
       "averageChangeSize": 9
     },
     "Project1": {
-      "totalLinesAdded": 64,
+      "totalLinesAdded": 76,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -92,6 +92,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\DiceCup.java",
             "fileType": ".java",
             "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "Project1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T19:50:28.605Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\DiceCup.java",
+            "fileType": ".java",
+            "linesAdded": 12,
             "linesRemoved": 0,
             "projectName": "Project1",
             "content": {

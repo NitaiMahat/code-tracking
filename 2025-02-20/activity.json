@@ -63,7 +63,7 @@
       "averageChangeSize": 5.666666666666667
     },
     "coding prac 6": {
-      "totalLinesAdded": 48,
+      "totalLinesAdded": 52,
       "totalLinesRemoved": 4,
       "totalActiveTime": 16,
       "files": {
@@ -180,6 +180,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\public class CodingPrac6Q5 {.java": [
+          {
+            "timestamp": "2025-02-21T00:07:01.627Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\public class CodingPrac6Q5 {.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac 6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

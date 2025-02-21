@@ -63,9 +63,9 @@
       "averageChangeSize": 5.666666666666667
     },
     "coding prac 6": {
-      "totalLinesAdded": 72,
+      "totalLinesAdded": 99,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 16,
+      "totalActiveTime": 21,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\CodingPrac6Q3.java": [
           {
@@ -210,6 +210,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:15:04.678Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\public class CodingPrac6Q5 {.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac 6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\CodingPrac6Q5P2.java": [
+          {
+            "timestamp": "2025-02-21T00:17:51.951Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\CodingPrac6Q5P2.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "coding prac 6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-21T00:18:00.322Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 6\\CodingPrac6Q5P2.java",
+            "fileType": ".java",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "coding prac 6",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

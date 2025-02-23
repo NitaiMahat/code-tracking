@@ -3,7 +3,7 @@
   "projects": {
     "coding prac 7": {
       "totalLinesAdded": 68,
-      "totalLinesRemoved": 1,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 10,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 7\\CodingPrac7Q4.java": [
@@ -149,6 +149,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-23T03:10:14.679Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 7\\CodingPrac7Q6.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "coding prac 7",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

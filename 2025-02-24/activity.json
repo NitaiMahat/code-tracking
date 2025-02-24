@@ -2,7 +2,7 @@
   "date": "2025-02-24",
   "projects": {
     "Day09-Random-String": {
-      "totalLinesAdded": 24,
+      "totalLinesAdded": 71,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -26,6 +26,22 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Day09-Random-String\\Day09-Random-String\\RollASeven.java",
             "fileType": ".java",
             "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "Day09-Random-String",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Day09-Random-String\\Day09-Random-String\\Gangsta.java": [
+          {
+            "timestamp": "2025-02-24T18:20:13.254Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Day09-Random-String\\Day09-Random-String\\Gangsta.java",
+            "fileType": ".java",
+            "linesAdded": 47,
             "linesRemoved": 0,
             "projectName": "Day09-Random-String",
             "content": {

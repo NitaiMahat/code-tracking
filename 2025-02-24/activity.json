@@ -2,7 +2,7 @@
   "date": "2025-02-24",
   "projects": {
     "Day09-Random-String": {
-      "totalLinesAdded": 83,
+      "totalLinesAdded": 99,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -56,6 +56,22 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Day09-Random-String\\Day09-Random-String\\Gangsta.java",
             "fileType": ".java",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Day09-Random-String",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Day09-Random-String\\Day09-Random-String\\BarneyExample.java": [
+          {
+            "timestamp": "2025-02-24T18:39:21.791Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Day09-Random-String\\Day09-Random-String\\BarneyExample.java",
+            "fileType": ".java",
+            "linesAdded": 16,
             "linesRemoved": 0,
             "projectName": "Day09-Random-String",
             "content": {

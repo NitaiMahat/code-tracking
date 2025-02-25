@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 228                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 228                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 223                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **BuncoPlayer.java** (+125, -0)
-- **BuncoGame.java** (+103, -0)
+- **BuncoGame.java** (+103, -5)
 
 ## Visualizations
 
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 228
+".java" : 233
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 3
-"18h" : 3
+"18h" : 4
 ```
 
 
-> **Last Updated:** 2/24/2025, 6:21:56 PM
+> **Last Updated:** 2/24/2025, 6:26:56 PM

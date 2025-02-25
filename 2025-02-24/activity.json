@@ -95,7 +95,7 @@
       "averageChangeSize": 10
     },
     "StartFiles": {
-      "totalLinesAdded": 209,
+      "totalLinesAdded": 222,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -135,6 +135,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java",
             "fileType": ".java",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "StartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-25T00:06:25.596Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java",
+            "fileType": ".java",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "StartFiles",
             "content": {

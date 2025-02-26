@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-26",
+  "projects": {
+    "StartFiles": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java": [
+          {
+            "timestamp": "2025-02-26T17:50:29.231Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java",
+            "fileType": ".java",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "StartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java"
+      ],
+      "averageChangeSize": 106
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

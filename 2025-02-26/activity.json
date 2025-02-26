@@ -33,6 +33,39 @@
         "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java"
       ],
       "averageChangeSize": 106
+    },
+    "classwork": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\ArrayClassWork.java": [
+          {
+            "timestamp": "2025-02-26T18:39:55.923Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\ArrayClassWork.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "classwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\classwork\\ArrayClassWork.java"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 0,

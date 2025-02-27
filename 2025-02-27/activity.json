@@ -2,9 +2,9 @@
   "date": "2025-02-27",
   "projects": {
     "coding prac 8": {
-      "totalLinesAdded": 64,
+      "totalLinesAdded": 85,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 23,
+      "totalActiveTime": 24,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java": [
           {
@@ -233,6 +233,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q4.java": [
+          {
+            "timestamp": "2025-02-27T19:19:47.457Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q4.java",
+            "fileType": ".java",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "coding prac 8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T19:20:00.892Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q4.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac 8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

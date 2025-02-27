@@ -2,9 +2,9 @@
   "date": "2025-02-27",
   "projects": {
     "coding prac 8": {
-      "totalLinesAdded": 18,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 23,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 8,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java": [
           {
@@ -27,6 +27,62 @@
             "fileType": ".java",
             "linesAdded": 17,
             "linesRemoved": 0,
+            "projectName": "coding prac 8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T14:33:53.965Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "coding prac 8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T14:34:22.354Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac 8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T14:35:29.659Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "coding prac 8",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-02-27T14:36:05.738Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "coding prac 8",
             "content": {
               "added": [],

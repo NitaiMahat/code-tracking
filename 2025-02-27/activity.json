@@ -321,6 +321,39 @@
         "d:\\University(Augustana)\\spring2025\\computer 202\\coding prac\\coding prac 8\\CodingPrac8Q1.java"
       ],
       "averageChangeSize": 9
+    },
+    "Project1": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java": [
+          {
+            "timestamp": "2025-02-28T00:57:22.853Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java",
+            "fileType": ".java",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "Project1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Project1\\StartFiles\\BuncoGame.java"
+      ],
+      "averageChangeSize": 106
     }
   },
   "totalActiveTime": 1,

@@ -2,9 +2,9 @@
   "date": "2025-03-08",
   "projects": {
     "computer 202": {
-      "totalLinesAdded": 265,
+      "totalLinesAdded": 279,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalActiveTime": 25,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java": [
           {
@@ -311,6 +311,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T21:27:13.001Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\PracForReadingFile.java",
+            "fileType": ".java",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\PracReadingPart2.java": [
+          {
+            "timestamp": "2025-03-08T21:28:43.977Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\PracReadingPart2.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

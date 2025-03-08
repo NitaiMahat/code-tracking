@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 265                                          |
+| **Lines Added** (➕)   | 279                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 263                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Net Change** (↕)    | 277                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,8 @@
 - **RetailItem.java** (+50, -0)
 - **Maintwo.java** (+33, -0)
 - **RetailChecker.java** (+33, -0)
-- **PracForReadingFile.java** (+22, -0)
+- **PracForReadingFile.java** (+32, -0)
+- **PracReadingPart2.java** (+4, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 267
+".java" : 281
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 9
 "14h" : 11
-"15h" : 1
+"15h" : 3
 ```
 
 
-> **Last Updated:** 3/8/2025, 3:26:49 PM
+> **Last Updated:** 3/8/2025, 3:31:49 PM

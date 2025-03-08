@@ -2,9 +2,9 @@
   "date": "2025-03-08",
   "projects": {
     "computer 202": {
-      "totalLinesAdded": 131,
+      "totalLinesAdded": 243,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 13,
+      "totalActiveTime": 18,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java": [
           {
@@ -221,6 +221,80 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T20:48:19.618Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\RetailItem.java",
+            "fileType": ".java",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\Maintwo.java": [
+          {
+            "timestamp": "2025-03-08T20:48:48.219Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Maintwo.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T20:49:02.782Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\Maintwo.java",
+            "fileType": ".java",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\RetailChecker.java": [
+          {
+            "timestamp": "2025-03-08T20:50:53.173Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\RetailChecker.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T20:51:05.835Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\RetailChecker.java",
+            "fileType": ".java",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

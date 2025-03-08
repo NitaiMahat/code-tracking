@@ -2,7 +2,7 @@
   "date": "2025-03-08",
   "projects": {
     "computer 202": {
-      "totalLinesAdded": 279,
+      "totalLinesAdded": 283,
       "totalLinesRemoved": 2,
       "totalActiveTime": 25,
       "files": {
@@ -341,6 +341,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\FilePrace.java": [
+          {
+            "timestamp": "2025-03-08T21:55:32.314Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\FilePrace.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

@@ -2,7 +2,7 @@
   "date": "2025-03-08",
   "projects": {
     "computer 202": {
-      "totalLinesAdded": 82,
+      "totalLinesAdded": 88,
       "totalLinesRemoved": 2,
       "totalActiveTime": 12,
       "files": {
@@ -147,6 +147,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T20:06:33.484Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\MidtermPracB3.java",
+            "fileType": ".java",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

@@ -1,0 +1,75 @@
+{
+  "date": "2025-03-08",
+  "projects": {
+    "computer 202": {
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java": [
+          {
+            "timestamp": "2025-03-08T19:11:32.664Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T19:11:34.394Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-08T19:11:48.781Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java",
+            "fileType": ".java",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "computer 202",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\MidterPracB2.java"
+      ],
+      "averageChangeSize": 2
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43                                          |
+| **Lines Added** (➕)   | 47                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 41                |
+| **Net Change** (↕)    | 45                |
 | **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
 - **MidterPracB2.java** (+43, -2)
+- **MidtermPracB3.java** (+4, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 45
+".java" : 49
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 7
+"13h" : 8
 ```
 
 
-> **Last Updated:** 3/8/2025, 1:31:11 PM
+> **Last Updated:** 3/8/2025, 1:56:11 PM

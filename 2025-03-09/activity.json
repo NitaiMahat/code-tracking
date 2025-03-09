@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-09",
+  "projects": {
+    "inventor": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\StoreInventory.java": [
+          {
+            "timestamp": "2025-03-09T18:40:18.300Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\StoreInventory.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\StoreInventory.java"
+      ],
+      "averageChangeSize": 4
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

@@ -77,9 +77,9 @@
       "averageChangeSize": 4
     },
     "fileReadinPrac": {
-      "totalLinesAdded": 50,
+      "totalLinesAdded": 52,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 10,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\fileReadinPrac\\Main.java": [
           {
@@ -136,6 +136,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-09T19:25:42.333Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\fileReadinPrac\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fileReadinPrac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-09T19:28:13.792Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\fileReadinPrac\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "fileReadinPrac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]

@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "StartFiles (1)": {
-      "totalLinesAdded": 132,
+      "totalLinesAdded": 162,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (1)\\StartFiles\\Ticket.java": [
           {
@@ -79,6 +79,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (1)\\StartFiles\\AdvanceTicket.java": [
+          {
+            "timestamp": "2025-03-10T17:24:31.964Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (1)\\StartFiles\\AdvanceTicket.java",
+            "fileType": ".java",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (1)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ]

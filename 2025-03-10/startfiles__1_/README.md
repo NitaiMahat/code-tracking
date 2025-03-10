@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 162                                          |
+| **Lines Added** (➕)   | 205                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 162                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 205                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **Ticket.java** (+49, -0)
 - **WalkUpTicket.java** (+30, -0)
 - **MainTickets.java** (+53, -0)
-- **AdvanceTicket.java** (+30, -0)
+- **AdvanceTicket.java** (+44, -0)
+- **StudentAdvanceTicket.java** (+29, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 162
+".java" : 205
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 6
+"12h" : 8
 ```
 
 
-> **Last Updated:** 3/10/2025, 12:28:48 PM
+> **Last Updated:** 3/10/2025, 12:33:48 PM

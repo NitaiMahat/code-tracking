@@ -77,9 +77,9 @@
       "averageChangeSize": 4
     },
     "inventor": {
-      "totalLinesAdded": 128,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 182,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 22,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\RetailItem.java": [
           {
@@ -196,6 +196,50 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T18:30:16.505Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\trying.java",
+            "fileType": ".java",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\MidtermPracB3.java": [
+          {
+            "timestamp": "2025-03-11T18:30:13.906Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\MidtermPracB3.java",
+            "fileType": ".java",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T18:30:16.287Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\MidtermPracB3.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

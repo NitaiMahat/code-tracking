@@ -2,7 +2,7 @@
   "date": "2025-03-11",
   "projects": {
     "fileReadinPrac": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 45,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -12,6 +12,20 @@
             "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\fileReadinPrac\\Main2.java",
             "fileType": ".java",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "fileReadinPrac",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T17:46:44.888Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\fileReadinPrac\\Main2.java",
+            "fileType": ".java",
+            "linesAdded": 41,
             "linesRemoved": 0,
             "projectName": "fileReadinPrac",
             "content": {

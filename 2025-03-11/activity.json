@@ -77,9 +77,9 @@
       "averageChangeSize": 4
     },
     "inventor": {
-      "totalLinesAdded": 54,
+      "totalLinesAdded": 105,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\RetailItem.java": [
           {
@@ -108,6 +108,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T18:10:53.772Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\RetailItem.java",
+            "fileType": ".java",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\StoreInventory.java": [
+          {
+            "timestamp": "2025-03-11T18:10:29.485Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\StoreInventory.java",
+            "fileType": ".java",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ]

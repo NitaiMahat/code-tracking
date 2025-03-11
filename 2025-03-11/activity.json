@@ -77,9 +77,9 @@
       "averageChangeSize": 4
     },
     "inventor": {
-      "totalLinesAdded": 105,
+      "totalLinesAdded": 117,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 5,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\RetailItem.java": [
           {
@@ -138,6 +138,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-11T18:13:45.150Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\inventor\\StoreInventory.java",
+            "fileType": ".java",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "inventor",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]

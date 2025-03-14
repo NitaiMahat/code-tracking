@@ -2,7 +2,7 @@
   "date": "2025-03-14",
   "projects": {
     "StartFiles": {
-      "totalLinesAdded": 240,
+      "totalLinesAdded": 243,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -82,6 +82,20 @@
             "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\RPGCharacter.java",
             "fileType": ".java",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "StartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-14T22:51:27.666Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\RPGCharacter.java",
+            "fileType": ".java",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "StartFiles",
             "content": {

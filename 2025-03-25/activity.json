@@ -3,7 +3,7 @@
   "projects": {
     "StartFiles": {
       "totalLinesAdded": 102,
-      "totalLinesRemoved": 6,
+      "totalLinesRemoved": 7,
       "totalActiveTime": 1,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Fighter.java": [
@@ -55,6 +55,20 @@
             "fileType": ".java",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "StartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-25T21:25:42.955Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Fighter.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "StartFiles",
             "content": {
               "added": [],

@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 97                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 97                |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 91                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
-- **Fighter.java** (+97, -0)
+- **Fighter.java** (+97, -6)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 97
+".java" : 103
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 2
+"16h" : 3
 ```
 
 
-> **Last Updated:** 3/25/2025, 4:27:43 PM
+> **Last Updated:** 3/25/2025, 5:00:50 PM

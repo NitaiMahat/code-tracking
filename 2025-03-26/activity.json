@@ -2,7 +2,7 @@
   "date": "2025-03-26",
   "projects": {
     "StartFiles": {
-      "totalLinesAdded": 30,
+      "totalLinesAdded": 31,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -37,6 +37,20 @@
           },
           {
             "timestamp": "2025-03-26T17:57:02.431Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Wizard.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "StartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-26T18:31:13.455Z",
             "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Wizard.java",
             "fileType": ".java",
             "linesAdded": 1,

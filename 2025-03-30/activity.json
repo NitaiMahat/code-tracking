@@ -3,7 +3,7 @@
   "projects": {
     "StartFiles": {
       "totalLinesAdded": 280,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\BasicRPGDriver.java": [
@@ -27,6 +27,20 @@
             "fileType": ".java",
             "linesAdded": 35,
             "linesRemoved": 0,
+            "projectName": "StartFiles",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-03-30T21:34:35.218Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\BasicRPGDriver.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "StartFiles",
             "content": {
               "added": [],

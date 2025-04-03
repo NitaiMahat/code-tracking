@@ -2,9 +2,9 @@
   "date": "2025-04-02",
   "projects": {
     "StartFiles (2)": {
-      "totalLinesAdded": 392,
+      "totalLinesAdded": 508,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie1.java": [
           {
@@ -67,6 +67,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Fighter.java": [
+          {
+            "timestamp": "2025-04-03T02:39:54.756Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Fighter.java",
+            "fileType": ".java",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ]

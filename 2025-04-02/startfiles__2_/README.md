@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 392                                          |
+| **Lines Added** (➕)   | 508                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 392                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Net Change** (↕)    | 508                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,7 @@
 - **Wizard.java** (+129, -0)
 - **RPGCharacter.java** (+132, -0)
 - **MultiSidedDie.java** (+70, -0)
+- **Fighter.java** (+116, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 392
+".java" : 508
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 4
+"21h" : 5
 ```
 
 
-> **Last Updated:** 4/2/2025, 9:35:57 PM
+> **Last Updated:** 4/2/2025, 9:40:57 PM

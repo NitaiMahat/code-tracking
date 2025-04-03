@@ -2,9 +2,9 @@
   "date": "2025-04-02",
   "projects": {
     "StartFiles (2)": {
-      "totalLinesAdded": 909,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 1014,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie1.java": [
           {
@@ -35,6 +35,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-04-03T03:42:09.484Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Wizard.java",
+            "fileType": ".java",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "java"
           }
         ],
@@ -95,6 +109,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-04-03T03:45:26.756Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ],
@@ -183,6 +211,22 @@
               "removed": []
             },
             "duration": 5,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie12.java": [
+          {
+            "timestamp": "2025-04-03T03:45:05.330Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie12.java",
+            "fileType": ".java",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "java"
           }
         ]

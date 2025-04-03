@@ -3,8 +3,8 @@
   "projects": {
     "StartFiles (2)": {
       "totalLinesAdded": 1294,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 29,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 31,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie1.java": [
           {
@@ -165,6 +165,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-04-03T04:01:39.872Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "java"
           }
         ],

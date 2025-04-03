@@ -1,0 +1,98 @@
+{
+  "date": "2025-04-02",
+  "projects": {
+    "StartFiles (2)": {
+      "totalLinesAdded": 392,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie1.java": [
+          {
+            "timestamp": "2025-04-03T02:31:02.591Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie1.java",
+            "fileType": ".java",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Wizard.java": [
+          {
+            "timestamp": "2025-04-03T02:33:35.943Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Wizard.java",
+            "fileType": ".java",
+            "linesAdded": 129,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\RPGCharacter.java": [
+          {
+            "timestamp": "2025-04-03T02:34:11.880Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\RPGCharacter.java",
+            "fileType": ".java",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie.java": [
+          {
+            "timestamp": "2025-04-03T02:35:22.982Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie.java",
+            "fileType": ".java",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (2)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 6
+      },
+      "changeFrequency": {
+        "21": 6
+      },
+      "topFiles": [
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie1.java",
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\Wizard.java",
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\RPGCharacter.java",
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (2)\\StartFiles\\MultiSidedDie.java"
+      ],
+      "averageChangeSize": 98
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

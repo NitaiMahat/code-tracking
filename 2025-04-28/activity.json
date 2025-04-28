@@ -2,9 +2,9 @@
   "date": "2025-04-28",
   "projects": {
     "StartFiles (5)": {
-      "totalLinesAdded": 135,
+      "totalLinesAdded": 175,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\StartFiles (5)\\StartFiles\\RPGCharacter.java": [
           {
@@ -33,6 +33,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\StartFiles (5)\\StartFiles\\Fighter.java": [
+          {
+            "timestamp": "2025-04-28T22:16:22.269Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\StartFiles (5)\\StartFiles\\Fighter.java",
+            "fileType": ".java",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "StartFiles (5)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "java"
           }
         ]

@@ -2,9 +2,9 @@
   "date": "2025-05-27",
   "projects": {
     "miniSocialNetwork": {
-      "totalLinesAdded": 558,
-      "totalLinesRemoved": 194,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 572,
+      "totalLinesRemoved": 208,
+      "totalActiveTime": 45,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\SocialNetwork.java": [
           {
@@ -473,6 +473,62 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-27T23:24:32.265Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-27T23:24:55.321Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-27T23:24:58.190Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-27T23:25:24.261Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ],

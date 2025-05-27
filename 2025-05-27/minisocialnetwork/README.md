@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 493                                          |
-| **Lines Removed** (➖) | 177                                        |
-| **Net Change** (↕)    | 316                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Lines Added** (➕)   | 558                                          |
+| **Lines Removed** (➖) | 194                                        |
+| **Net Change** (↕)    | 364                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -19,9 +19,9 @@
 - **SocialNetwork.java** (+31, -0)
 - **Post.java** (+26, -0)
 - **User.java** (+62, -0)
-- **SocialNetwork.java** (+31, -0)
-- **Main.java** (+193, -170)
-- **launch.json** (+37, -7)
+- **SocialNetwork.java** (+34, -0)
+- **Main.java** (+255, -170)
+- **launch.json** (+37, -24)
 - **settings.json** (+13, -0)
 
 ## Visualizations
@@ -31,8 +31,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 613
-".json" : 57
+".java" : 678
+".json" : 74
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 10
 "18h" : 14
-"19h" : 5
+"19h" : 9
 ```
 
 
-> **Last Updated:** 5/27/2025, 7:19:29 PM
+> **Last Updated:** 5/27/2025, 7:24:29 PM

@@ -3,7 +3,7 @@
   "projects": {
     "miniSocialNetwork": {
       "totalLinesAdded": 292,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 21,
       "totalActiveTime": 20,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\SocialNetwork.java": [
@@ -275,6 +275,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-27T22:47:12.026Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\src\\Main.java",
+            "fileType": ".java",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "java"
           }
         ],

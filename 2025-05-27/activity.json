@@ -2,9 +2,9 @@
   "date": "2025-05-27",
   "projects": {
     "miniSocialNetwork": {
-      "totalLinesAdded": 17,
+      "totalLinesAdded": 59,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 8,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\SocialNetwork.java": [
           {
@@ -109,6 +109,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\model\\User.java": [
+          {
+            "timestamp": "2025-05-27T04:47:34.643Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\model\\User.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-27T04:47:40.804Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\model\\User.java",
+            "fileType": ".java",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\model\\SocialNetwork.java": [
+          {
+            "timestamp": "2025-05-27T04:47:38.046Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\model\\SocialNetwork.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "java"
           }
         ]

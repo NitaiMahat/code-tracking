@@ -1,0 +1,109 @@
+{
+  "date": "2025-05-27",
+  "projects": {
+    "miniSocialNetwork": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\SocialNetwork.java": [
+          {
+            "timestamp": "2025-05-27T04:03:04.467Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\SocialNetwork.java",
+            "fileType": ".java",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\User.java": [
+          {
+            "timestamp": "2025-05-27T04:04:30.734Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\User.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-27T04:04:54.726Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\User.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\Post.java": [
+          {
+            "timestamp": "2025-05-27T04:04:41.439Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\Post.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-27T04:04:51.999Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\Post.java",
+            "fileType": ".java",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "miniSocialNetwork",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ]
+      },
+      "languageStats": {
+        "java": 5
+      },
+      "changeFrequency": {
+        "0": 5
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\User.java",
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\Post.java",
+        "d:\\University(Augustana)\\spring2025\\computer 202\\miniSocialNetwork\\SocialNetwork.java"
+      ],
+      "averageChangeSize": 2.4
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "java"
+  ]
+}

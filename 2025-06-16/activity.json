@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-16",
+  "projects": {
+    "card-approval-compass-main": {
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\University(Augustana)\\spring2025\\computer 202\\card-approval-compass-main\\card-approval-compass-main\\index.html": [
+          {
+            "timestamp": "2025-06-16T23:22:52.701Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\card-approval-compass-main\\card-approval-compass-main\\index.html",
+            "fileType": ".html",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "card-approval-compass-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "d:\\University(Augustana)\\spring2025\\computer 202\\card-approval-compass-main\\card-approval-compass-main\\index.html"
+      ],
+      "averageChangeSize": 25
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}

@@ -3,8 +3,8 @@
   "projects": {
     "card-approval-compass-main": {
       "totalLinesAdded": 25,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
       "files": {
         "d:\\University(Augustana)\\spring2025\\computer 202\\card-approval-compass-main\\card-approval-compass-main\\index.html": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-16T23:27:39.743Z",
+            "fileName": "d:\\University(Augustana)\\spring2025\\computer 202\\card-approval-compass-main\\card-approval-compass-main\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "card-approval-compass-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "html"
           }
         ]

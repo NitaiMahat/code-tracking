@@ -2,9 +2,9 @@
   "date": "2025-08-07",
   "projects": {
     "PIF": {
-      "totalLinesAdded": 364,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 404,
+      "totalLinesRemoved": 80,
+      "totalActiveTime": 6,
       "files": {
         "d:\\University(Augustana)\\PIF\\app\\page.tsx": [
           {
@@ -27,6 +27,48 @@
             "fileType": ".tsx",
             "linesAdded": 40,
             "linesRemoved": 0,
+            "projectName": "PIF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T22:17:28.949Z",
+            "fileName": "d:\\University(Augustana)\\PIF\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 40,
+            "projectName": "PIF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T22:17:38.821Z",
+            "fileName": "d:\\University(Augustana)\\PIF\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "PIF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-08-07T22:17:54.858Z",
+            "fileName": "d:\\University(Augustana)\\PIF\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 40,
             "projectName": "PIF",
             "content": {
               "added": [],

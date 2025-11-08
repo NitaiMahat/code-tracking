@@ -2,9 +2,9 @@
   "date": "2025-11-07",
   "projects": {
     "Downloads": {
-      "totalLinesAdded": 86,
+      "totalLinesAdded": 218,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\Nitai\\Downloads\\Nimai_Lab Assignment 8 - SQL Module 8.sql": [
           {
@@ -19,6 +19,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-11-08T00:01:22.343Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\Nimai_Lab Assignment 8 - SQL Module 8.sql",
+            "fileType": ".sql",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\Nitai\\Downloads\\NamunaLab Assignment 8 - SQL Module.sql": [
+          {
+            "timestamp": "2025-11-08T00:01:49.302Z",
+            "fileName": "c:\\Users\\Nitai\\Downloads\\NamunaLab Assignment 8 - SQL Module.sql",
+            "fileType": ".sql",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ]

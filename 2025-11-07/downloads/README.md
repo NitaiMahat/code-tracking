@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 86                                          |
+| **Lines Added** (➕)   | 218                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 86                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 218                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
-- **Nimai_Lab Assignment 8 - SQL Module 8.sql** (+86, -0)
+- **Nimai_Lab Assignment 8 - SQL Module 8.sql** (+109, -0)
+- **NamunaLab Assignment 8 - SQL Module.sql** (+109, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".sql" : 86
+".sql" : 218
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 1
+"18h" : 2
 ```
 
 
-> **Last Updated:** 11/7/2025, 5:42:01 PM
+> **Last Updated:** 11/7/2025, 6:02:01 PM
